@@ -1,0 +1,4 @@
+rm -rf *.log
+rm -rf *.fsdb
+rm -rf INCA_libs
+rm -rf irun.history

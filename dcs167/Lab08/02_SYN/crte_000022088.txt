@@ -1,0 +1,223 @@
+CRTE_SNAPSHOT_START
+
+SECTION_CRTE_VERSION
+3.0
+
+SECTION_PID
+22088
+
+SECTION_POLLING_INTERVAL
+5
+
+SECTION_DATE_TIME
+Sun Apr 24 20:23:51 CST 2022 (1650803031)
+
+SECTION_OS_VERSION
+osname: Linux
+hostname: ee01
+arch: x86_64
+release_version: 2.6.32-696.el6.x86_64
+
+SECTION_IPC_INFO
+Error: command <ipcs -msq 2>/dev/null> can not be executed.
+SECTION_ULIMIT
+Error: command <sh -c "ulimit -a"> can not be executed.
+SECTION_SYSCONF
+_SC_THREAD_SAFE_FUNCTIONS= 200809
+_SC_CLK_TCK= 100
+_SC_OPEN_MAX= 4096
+_SC_PAGE_SIZE= 4096
+_SC_ARG_MAX= 4611686018427387903
+_SC_CHILD_MAX= 1024
+_SC_LINE_MAX= 2048
+
+SECTION_FULL_COMMAND
+/RAID2/EDA/synopsys/synthesis/2020.09/linux64/syn/bin/common_shell_exec -shell dc_shell -r /RAID2/EDA/synopsys/synthesis/2020.09 -f syn.tcl
+
+SECTION_CPUINFO
+total_core: 8
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+model_name:  Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+flags:  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat xsaveopt pln pts dtherm hwp hwp_noitfy hwp_act_window hwp_epp tpr_shadow vnmi flexpriority ept vpid fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx
+cpu_family: 6
+core_frequency_mhz: 800
+core_per_socket: 0
+stepping: 9
+cache_size_kb: 8192
+ht: 0
+
+SECTION_OS_RELEASE_VERSION
+Error: command <cat /etc/redhat-release> can not be executed.
+
+SECTION_SYS/VM
+Error: command <grep '' /proc/sys/vm/* 2> /dev/null> can not be executed.
+
+SECTION_SWAP
+swap_partition: /dev/dm-1
+size_gb: 3
+
+CRTE_SNAPSHOT_END
+
+CRTE_PERIODIC_START 1 1650803031581
+
+SECTION_MPSTAT
+total_core: 8
+
+CPU     %user   %kernel %wait   %idle   
+all   11.594113 1.769803 0.310091 86.325989
+0     10.777539 2.035487 0.659940 86.527031
+1     10.624599 1.787777 0.227850 87.359772
+2     15.643039 1.549383 0.177702 82.629883
+3     19.776846 1.703524 0.549827 77.969803
+4     8.434957 2.094009 0.299947 89.171082
+5     8.083542 1.952733 0.178750 89.784973
+6     5.204131 1.632634 0.139895 93.023346
+7     14.229514 1.403017 0.247825 84.119644
+SECTION_LOADAVG
+0.37 0.18 0.11 1/832 22181
+
+SECTION_PID_STATUS
+name: common_shell_ex
+state: 1
+vmsize: 1842140
+vmrss: 263860
+vmdata: 1378200
+vmstk: 216
+vmexe: 359796
+vmlib: 11064
+threads: 1
+
+SECTION_PROCESS_CPU_UTIL
+pid: 22088
+cpu_total_time: 3580726414
+cpu_used_time: 447
+cpu_p: 
+
+SECTION_SYSTEM_CPU_UTIL
+sys_cpu_p: 
+
+SECTION_MEMINFO
+memtotal: 7928328
+memfree: 161564
+cached: 1060520
+swapcached: 71308
+active: 5609792
+swaptotal: 4194300
+swapfree: 0
+
+SECTION_SMAPS
+shared_kb: 1752
+private_kb: 262112
+
+SECTION_DF
+Filesystem  Size  Used Avail Use%
+filesystem        912G  6G  859G    1
+
+Filesystem    Inodes   IUsed   IFree   IUse%
+filesystem          60743680  233440 60510240   4294959874
+
+SECTION_CWD
+Filesystem  Size  Used Avail Use%
+filesystem        74503G  3494G  71009G    5
+
+Filesystem    Inodes   IUsed   IFree   IUse%
+filesystem          3124998912  17879090 3107119822   18
+
+SECTION_SWAP_RATE
+blk_read: 26237336
+blk_wrtn: 91264888
+swap_in_rate: 
+swap_out_rate: 
+swap_in_rate: 
+swap_out_rate: 
+
+SECTION_FD_SIZE
+files: 13
+total_size: 280259
+
+SECTION_NET_INTERFACE
+total_eth_avbl: 1
+
+name net_rx_err net_rx_drp net_tx_err net_tx_drp 
+    lo:         0        0        0        0
+
+SECTION_NFSSTAT
+readlink: 0
+write: 6
+getattr: 14
+retrans: 0
+raw_data: 
+net 0 0 0 0
+rpc 199372982 444 199459969
+proc2 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+proc3 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+proc4 48 0 27603530 12365705 216938 45860089 23203 1040 374554 43682166 5915423 3 27231 2 2 2095597 4867 1920378 17653116 28285522 5857377 1 1664618 57836 22599 89433 156015 2 1271139 61195 1580640 5 715648 3611 3611 0 1862919 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+SECTION_THREAD_CPU_UTIL
+22088 : 22088 (common_shell_ex) R 22087 22087 21051 34865 22087 8192 225277 23505 0 0 414 27 2 4 20 0 1 0 448485798 1886351360 65966 18446744073709551615 4194304 372621969 140737488344816 140737488324104 208589088784 0 0 67112960 1132523263 0 0 0 17 3 0 0 7 0 0
+
+CRTE_PERIODIC_END 1 1650803031581

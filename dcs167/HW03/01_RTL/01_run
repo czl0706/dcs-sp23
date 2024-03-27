@@ -1,0 +1,6 @@
+cat /etc/redhat-release  | tee version.log
+if   grep -i -q '8' 'version.log'; then
+    irun TESTBENCH.sv -define RTL -debug -notimingchecks -loadpli1 debpli:novas_pli_boot
+else
+    irun TESTBENCH.sv -define RTL -debug -loadpli1 debpli:novas_pli_boot
+fi

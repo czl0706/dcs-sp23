@@ -1,0 +1,10 @@
+rm -rf Netlist/*
+rm -rf Report/*
+rm -rf *.log
+rm -rf *.pvl
+rm -rf *.syn
+rm -rf *.mr
+rm -rf *.svf
+ 
+ 
+ 

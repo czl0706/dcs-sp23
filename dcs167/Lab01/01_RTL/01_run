@@ -1,0 +1,1 @@
+irun TESTBED.sv -define RTL -debug

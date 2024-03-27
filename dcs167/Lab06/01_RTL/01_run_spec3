@@ -1,0 +1,1 @@
+irun testbench3.sv -define RTL -debug -loadpli1 debpli:novas_pli_boot
